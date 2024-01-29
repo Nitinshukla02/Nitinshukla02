@@ -1,12 +1,12 @@
 ![logo](https://t4.ftcdn.net/jpg/04/19/26/97/360_F_419269782_9LsP3TQndMVnZ2j3ZhTPhMjaqQpFAth9.jpg)
 <h1 align="center">Hi 👋, I'm Nitin Shukla</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate full Stack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nitinshukla02&label=Profile%20views&color=0e75b6&style=flat" alt="nitinshukla02" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nitinshukla02" alt="nitinshukla02" /></a> </p>
 
-- 🌱 I’m currently learning **Full Stack Development Program from PW Skills**
+- 🌱 I’m currently learning **Full Stack Development Program**
 
 - 💬 Ask me about **Html,Css,javaScript**
 
